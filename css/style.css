@@ -25,3 +25,12 @@ article img{
     margin: 0;
     width: 300px;
 }
+
+main table{
+    border:black;
+    text-align: center;
+}
+
+table th{
+    padding-right: 10px; 
+}
